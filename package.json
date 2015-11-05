@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/brion25/rest-facade-example/issues"
   },
-  "homepage": "https://github.com/brion25/rest-facade-example#readme"
+  "homepage": "https://github.com/brion25/rest-facade-example#readme",
+  "devDependencies": {
+    "rest-facade": "^1.1.1"
+  }
 }
